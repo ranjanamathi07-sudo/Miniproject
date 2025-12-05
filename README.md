@@ -45,11 +45,13 @@ Ensures structured and consistent communication between backend services and the
 
 #### Output1 - Name of the output
 
-![op1](https://github.com/user-attachments/assets/f48b24fb-19dd-4724-ae3f-bed9ee9c780b)
+<img width="881" height="749" alt="op1" src="https://github.com/user-attachments/assets/a8c9f0f2-224b-4427-ad29-9bf8a26f87eb" />
+
 
 #### Output2 - Name of the output
 
-![op2](https://github.com/user-attachments/assets/a9f435ac-9757-467f-8da1-2a136c5839ce)
+<img width="883" height="692" alt="op2" src="https://github.com/user-attachments/assets/df44e533-d3a3-4722-8aeb-dc474ae110d1" />
+
 
 
 Detection Accuracy: 93.5%
