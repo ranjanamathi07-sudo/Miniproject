@@ -43,12 +43,12 @@ Ensures structured and consistent communication between backend services and the
 
 ## Output
 
-#### Output1 - Name of the output
+#### Output1 - LMS home screen with list of students, statuses, navigation
 
 <img width="881" height="749" alt="op1" src="https://github.com/user-attachments/assets/a8c9f0f2-224b-4427-ad29-9bf8a26f87eb" />
 
 
-#### Output2 - Name of the output
+#### Output2 - Student performance dashboard
 
 <img width="883" height="692" alt="op2" src="https://github.com/user-attachments/assets/df44e533-d3a3-4722-8aeb-dc474ae110d1" />
 
